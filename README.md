@@ -1,2 +1,0 @@
-# Reports
-Document Details
